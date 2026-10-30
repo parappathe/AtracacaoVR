@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "atracacaovr", "runtimeExecutable": "python", "runtimeArgs": ["serve.py", "--port", "8834"], "port": 8834 }
+  ]
+}
